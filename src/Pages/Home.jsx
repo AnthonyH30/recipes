@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from "./Components/Header";
+import Header from "../Services/header/Header";
 function Home() {
   return (
     <div>
       <Header/>
-        <h1>home</h1>
+      
     </div>
   )
 }
